@@ -131,4 +131,3 @@ WHERE
 
 13. Indica la edad media de los actores que han fallecido
 
-	DIRECTOR_DEAD_DATE IS NULL
